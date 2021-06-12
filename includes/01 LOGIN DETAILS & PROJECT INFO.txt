@@ -2,7 +2,7 @@
 
 **Developed by Ritik Kumar**
 
-**Recommended PHP Version 5.6.3**
+**Recommended PHP Version 7.4.0**
 
 
 **Admin Login Details**
