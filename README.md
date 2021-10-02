@@ -1,3 +1,10 @@
+# Hacktoberfest 2021
+## You can contribute to this project in any way(i.e., some optiization, improvement in UI, etc)
+-fork this repo
+-clone this into your machine
+-contribute your stuff
+-make a PR
+
 # SMSys
 ## _Sales Management System_
 
