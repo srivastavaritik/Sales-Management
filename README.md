@@ -8,6 +8,9 @@
 # SMSys
 ## _Sales Management System_
 
+## Used technology
+PHP,MYSQL
+
 Sales/Inventory Management Software helps to manage incoming and outgoing stocks along with having diverssity of users having different roles.
 
 ## Features
